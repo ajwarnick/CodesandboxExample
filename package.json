@@ -1,0 +1,23 @@
+{
+  "name": "codesandbox-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajwarnick/CodesandboxExample.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajwarnick/CodesandboxExample/issues"
+  },
+  "homepage": "https://github.com/ajwarnick/CodesandboxExample",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
